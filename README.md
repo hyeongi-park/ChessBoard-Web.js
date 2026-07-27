@@ -74,7 +74,7 @@ var board = Chessboard('myBoard', {
   draggable: true
 });
 board.addNagBadge('e4', 'brilliant'); // Add a Brilliant badge to e4
-board.addMark('c5', 'square', { color: 'red', size: 20, strokeWidth: 3 }); // Add a red circle mark to c5
+board.addMark('c5', 'circle', { color: 'red', size: 20, strokeWidth: 3 }); // Add a red circle mark to c5
 ```
 
 ---
