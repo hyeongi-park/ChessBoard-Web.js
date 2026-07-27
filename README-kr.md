@@ -7,7 +7,7 @@
 
 
 **ChessBoard-Web.js**는 현대적인 체스 웹 애플리케이션 구축을 위해 확장된 순수 자바스크립트 체스판 컴포넌트입니다.  
-기존 [chessboard.js](https://github.com/oakmac/chessboardjs)의 경량성과 유연함을 유지하면서, **Chess.com 스타일의 NAGs(수 분석 배지) 시스템, 오버레이 레이어링 최적화, 커스텀 테마 보정** 등 현대 체스 UI에 필수적인 핵심 기능들을 대폭 강화했습니다.
+기존 [chessboard.js](https://github.com/oakmac/chessboardjs)의 경량성과 유연함을 유지하면서, **Chess.com 스타일의 NAGs(수 분석 배지) 시스템, 오버레이 레이어링 최적화, 커스텀 테마 보정** 등 현대 체스 UI에 필수적인 핵심 기능들을 대폭 강화했습니다. 사용법은 **[Wiki](https://github.com/hyeongi-park/ChessBoard-Web.js/wiki)** 를 참고하세요.
 
 jQuery v3.4.1 (혹은 그 이상) 버전에 의존합니다.
 
