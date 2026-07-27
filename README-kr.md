@@ -97,4 +97,4 @@ board.addMark('c5', 'square', { color: 'red', raidus: 20, strokeWidth: 3 }) // c
 
 
 ## 📄 라이선스 (License)
-본 프로젝트는 MIT License를 따릅니다. 오픈소스 및 상업적 용도 모두 자유롭게 수정 및 재배포가 가능합니다. 기여를 원한다면 [COTRIBUTING.md](https://github.com/bigegg3000-huang/chessboard-web.js/blob/main/CONTRIBUTING.md)를 참고해주세요.
+본 프로젝트는 MIT License를 따릅니다. 오픈소스 및 상업적 용도 모두 자유롭게 수정 및 재배포가 가능합니다. 기여를 원한다면 [COTRIBUTING.md](https://github.com/hyeongi-park/ChessBoard-Web.js/blob/main/CONTRIBUTING.md)를 참고해주세요.
