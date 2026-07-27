@@ -4,7 +4,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow.svg)
 
 
-[README-kr.md](https://github.com/bigegg3000-huang/chessboard-web.js/blob/main/README-kr.md)
+[README-kr.md](https://github.com/hyeongi-park/ChessBoard-Web.js/blob/main/README-kr.md)
 
 **ChessBoard-Web.js** is an extended, pure JavaScript chessboard component built for modern web chess applications.  
 While retaining the lightweight nature and flexibility of the original [chessboard.js](https://github.com/oakmac/chessboardjs), it heavily enhances essential modern chess UI features such as a **Chess.com-style NAGs (Move Annotation Badges) system, overlay layering optimization, and custom theme overrides**.
@@ -83,7 +83,7 @@ board.addMark('c5', 'square', { color: 'red', radius: 20, strokeWidth: 3 }); // 
 
 ## 🛠️ Additional Features & Usage
 
-To explore further functionalities, read [the official chessboard.js documentation](https://chessboardjs.com/docs) first. Since ChessBoard-Web.js is fully compatible with chessboard.js with extra features layered on top, [the chessboard.js examples](https://chessboardjs.com/examples#1000) will work identically. To learn more about ChessBoard-Web.js-specific features and examples, you can check the **[Wiki](https://github.com/bigegg3000-huang/chessboardweb.js/wiki)**.
+To explore further functionalities, read [the official chessboard.js documentation](https://chessboardjs.com/docs) first. Since ChessBoard-Web.js is fully compatible with chessboard.js with extra features layered on top, [the chessboard.js examples](https://chessboardjs.com/examples#1000) will work identically. To learn more about ChessBoard-Web.js-specific features and examples, you can check the **[Wiki](https://github.com/hyeongi-park/ChessBoard-Web.js/wiki)**.
 
 
 ---
