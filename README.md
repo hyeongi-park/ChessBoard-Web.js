@@ -3,8 +3,7 @@
 ![jQuery](https://img.shields.io/badge/jQuery-v3.4.1%2B-orange.svg)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow.svg)
 
-
-[README-kr.md](https://github.com/hyeongi-park/ChessBoard-Web.js/blob/main/README-kr.md)
+[🇺🇸 English](https://github.com/hyeongi-park/ChessBoard-Web.js/blob/main/README.md)  |  [🇰🇷 한국어](https://github.com/hyeongi-park/ChessBoard-Web.js/blob/main/README-kr.md)
 
 **ChessBoard-Web.js** is an extended, pure JavaScript chessboard component built for modern web chess applications.  
 While retaining the lightweight nature and flexibility of the original [chessboard.js](https://github.com/oakmac/chessboardjs), it heavily enhances essential modern chess UI features such as a **Chess.com-style NAGs (Move Annotation Badges) system, overlay layering optimization, and custom theme overrides**.
