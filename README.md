@@ -74,7 +74,7 @@ var board = Chessboard('myBoard', {
   draggable: true
 });
 board.addNagBadge('e4', 'brilliant'); // Add a Brilliant badge to e4
-board.addMark('c5', 'square', { color: 'red', radius: 20, strokeWidth: 3 }); // Add a red circle mark to c5
+board.addMark('c5', 'square', { color: 'red', size: 20, strokeWidth: 3 }); // Add a red circle mark to c5
 ```
 
 ---
@@ -89,4 +89,4 @@ To explore further functionalities, read [the official chessboard.js documentati
 
 
 ## 📄 License
-This project is licensed under the MIT License. It is freely modifiable and redistributable for both open-source and commercial use. If you wish to contribute, please refer to [CONTRIBUTING.md](https://github.com/bigegg3000-huang/chessboard-web.js/blob/main/CONTRIBUTING.md).
+This project is licensed under the MIT License. It is freely modifiable and redistributable for both open-source and commercial use. If you wish to contribute, please refer to [CONTRIBUTING.md](https://github.com/hyeongi-park/ChessBoard-Web.js/blob/main/CONTRIBUTING.md).
