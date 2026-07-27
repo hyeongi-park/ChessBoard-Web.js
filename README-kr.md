@@ -81,7 +81,7 @@ var board = Chessboard('myBoard', {
   draggable: true
 });
 board.addNagBadge('e4', 'brilliant'); // e4 칸에 탁월한 수(Brilliant) 추가
-board.addMark('c5', 'square', { color: 'red', size: 20, strokeWidth: 3 }) // c5 칸에 동그라미 마크 추가
+board.addMark('c5', 'circle', { color: 'red', size: 20, strokeWidth: 3 }) // c5 칸에 동그라미 마크 추가
 ```
 
 
