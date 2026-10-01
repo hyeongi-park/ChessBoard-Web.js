@@ -89,7 +89,7 @@ board.addMark('c5', 'circle', { color: 'red', size: 20, strokeWidth: 3 }) // c5 
 
 
 ## 🛠️ 추가 기능 및 활용
-추가적인 활용을 더 알고 싶다면 [chessboard.js의 공식 사이트 문서](https://chessboardjs.com/docs)를 먼저 읽어보세요. ChessBoard-Web.js는 chessboard.js와 완전히 호환되며 추가적인 기능이 덧붙여진 형태이므로 [chessboard.js의 예시](https://chessboardjs.com/examples#1000) 또한 똑같이 잘 작동합니다. ChessBoard-Web.js만의 추가적인 기능과 그 예시를 더 알고싶다면 [**Wiki**](https://github.com/bigegg3000-huang/chessboardweb.js/wiki)를 참고하실 수 있습니다.
+추가적인 활용을 더 알고 싶다면 [chessboard.js의 공식 사이트 문서](https://chessboardjs.com/docs)를 먼저 읽어보세요. ChessBoard-Web.js는 chessboard.js와 완전히 호환되며 추가적인 기능이 덧붙여진 형태이므로 [chessboard.js의 예시](https://chessboardjs.com/examples#1000) 또한 똑같이 잘 작동합니다. ChessBoard-Web.js만의 추가적인 기능과 그 예시를 더 알고싶다면 [**Wiki**](https://github.com/hyeongi-park/ChessBoard-Web.js/wiki)를 참고하실 수 있습니다.
 
 
 
