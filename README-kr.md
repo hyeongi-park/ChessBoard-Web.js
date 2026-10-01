@@ -66,7 +66,7 @@ ChessBoard-Web.js는 이러한 복잡한 요구사항들을 최소한의 코드�
 ### 2. HTML 컨테이너 생성
 
 ```html
-// jQuery는 필수적으로 의존하므로 cdn을 통해 불러와야 합니다
+<!-- jQuery는 필수적으로 의존하므로 cdn을 통해 불러와야 합니다 -->
 <script src="[https://code.jquery.com/jquery-3.6.0.min.js](https://code.jquery.com/jquery-3.6.0.min.js)"></script>
 <link rel="stylesheet" href="css/ChessBoard-Web.css">
 <script src="js/ChessBoard-Web.js"></script>
